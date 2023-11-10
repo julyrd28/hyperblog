@@ -7,3 +7,4 @@ Este curso contiene:
 * Flujo de trabajo
 * Creado por JCB
 * Incluye ejemplos en windows linux y mac
+* Disponible para todas las edades
