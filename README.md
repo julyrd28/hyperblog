@@ -5,3 +5,4 @@ Blog del curso de Platzi
 Este curso contiene:
 * Comando Git
 * Flujo de trabajo
+* Creado por JCB
